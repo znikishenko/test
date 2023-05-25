@@ -1,0 +1,35 @@
+body{
+    
+}
+.block-1 {
+    background-color: #e721ab;
+}
+.block-1__text {
+    color: #fff;
+}
+.block-2 {
+    border: 1px solid #000; /* рамка - bd */
+    width: 500px;
+    margin: 0 auto; /* відступ */
+    
+}
+.block-2__image {
+}
+.box-picture {
+    border: 1px solid #000;
+    margin-top: 50px;
+    width: 1000px;
+    margin: 0 auto;
+}
+.photo-1 {
+    width: 300px;
+    
+}
+.photo-2 {
+    width: 300px;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.photo-3 {
+    width: 300px;
+}
